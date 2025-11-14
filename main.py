@@ -49,3 +49,4 @@ def main():
 
 
 main()
+git remote add origin https://github.com/aastha18263/expert_system.git
